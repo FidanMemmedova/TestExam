@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navigationbar{
+    display: flex;
+    justify-content: space-between;
+}
+#get_page_done{
+    background-color: #00798A;
+    color: white;
+    text-align: center;
+    padding: 80px 0px;
+    h1{
+        font-size: 80px;
+    }
+   button{
+       border-radius: 0px;
+       background-color: #FC4065;
+       border: 0;
+   }
+}
